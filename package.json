@@ -1,0 +1,16 @@
+{
+  "name": "full-stack-web3",
+  "version": "1.0.0",
+  "description": "The technologies for the project: 1. HTML / JS 2. NextJS / React and \"raw\" ethers 3. NextJS and \"web3-react\" 4. NextJS and \"react-moralis\" 5. NextJS and \"web3Modal\" 6. NextJS and \"useDapp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "ethers": "^5.7.0"
+  }
+}
